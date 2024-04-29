@@ -1,0 +1,22 @@
+#ulitem{
+  display: flex;
+}
+#ulitem>li{
+  width: 20%;
+list-style: none;
+text-align: center;
+
+}
+
+#ulitem>li:hover{
+  background-color: grey;
+  width: 20%;
+list-style: none;
+}
+table>tr>td{
+  padding: 10px;
+}
+table>tr>td:hover{
+  background-color: gray;
+  padding: 10px;
+}
